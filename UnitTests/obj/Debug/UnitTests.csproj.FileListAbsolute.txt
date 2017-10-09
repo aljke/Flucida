@@ -1,0 +1,15 @@
+E:\.Net Test\CreateMltVolumeFiles\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+E:\.Net Test\CreateMltVolumeFiles\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+E:\.Net Test\CreateMltVolumeFiles\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\.Net Test\CreateMltVolumeFiles\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\.Net Test\CreateMltVolumeFiles\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\.Net Test\CreateMltVolumeFiles\UnitTests\bin\Debug\UnitTests.dll
+E:\.Net Test\CreateMltVolumeFiles\UnitTests\bin\Debug\UnitTests.pdb
+E:\.Net Test\CreateMltVolumeFiles\UnitTests\bin\Debug\CreateMltVolumeFiles.exe
+E:\.Net Test\CreateMltVolumeFiles\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\.Net Test\CreateMltVolumeFiles\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\.Net Test\CreateMltVolumeFiles\UnitTests\bin\Debug\CreateMltVolumeFiles.pdb
+E:\.Net Test\CreateMltVolumeFiles\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\.Net Test\CreateMltVolumeFiles\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\.Net Test\CreateMltVolumeFiles\UnitTests\obj\Debug\UnitTests.dll
+E:\.Net Test\CreateMltVolumeFiles\UnitTests\obj\Debug\UnitTests.pdb

@@ -1,0 +1,24 @@
+D:\Temp\CreateMltVolumeFiles\CreateMltVolumeFiles\bin\Debug\CreateMltVolumeFiles.exe
+D:\Temp\CreateMltVolumeFiles\CreateMltVolumeFiles\bin\Debug\CreateMltVolumeFiles.pdb
+D:\Temp\CreateMltVolumeFiles\CreateMltVolumeFiles\obj\x86\Debug\CreateMltVolumeFiles.CreateMltVolumeFilesForm.resources
+D:\Temp\CreateMltVolumeFiles\CreateMltVolumeFiles\obj\x86\Debug\CreateMltVolumeFiles.Properties.Resources.resources
+D:\Temp\CreateMltVolumeFiles\CreateMltVolumeFiles\obj\x86\Debug\CreateMltVolumeFiles.csproj.GenerateResource.Cache
+D:\Temp\CreateMltVolumeFiles\CreateMltVolumeFiles\obj\x86\Debug\CreateMltVolumeFiles.exe
+D:\Temp\CreateMltVolumeFiles\CreateMltVolumeFiles\obj\x86\Debug\CreateMltVolumeFiles.pdb
+D:\Temp\_Permanent\Misc\CreateMltVolumeFiles\CreateMltVolumeFiles\obj\x86\Debug\CreateMltVolumeFiles.exe
+D:\Temp\_Permanent\Misc\CreateMltVolumeFiles\CreateMltVolumeFiles\obj\x86\Debug\CreateMltVolumeFiles.pdb
+D:\Temp\_Permanent\Misc\CreateMltVolumeFiles\CreateMltVolumeFiles\bin\Debug\CreateMltVolumeFiles.exe
+D:\Temp\_Permanent\Misc\CreateMltVolumeFiles\CreateMltVolumeFiles\bin\Debug\CreateMltVolumeFiles.pdb
+D:\Temp\_Permanent\Misc\CreateMltVolumeFiles\CreateMltVolumeFiles\obj\x86\Debug\CreateMltVolumeFiles.csprojResolveAssemblyReference.cache
+D:\Temp\_Permanent\Misc\CreateMltVolumeFiles\CreateMltVolumeFiles\obj\x86\Debug\CreateMltVolumeFiles.CreateMltVolumeFilesForm.resources
+D:\Temp\_Permanent\Misc\CreateMltVolumeFiles\CreateMltVolumeFiles\obj\x86\Debug\CreateMltVolumeFiles.Properties.Resources.resources
+D:\Temp\_Permanent\Misc\CreateMltVolumeFiles\CreateMltVolumeFiles\obj\x86\Debug\CreateMltVolumeFiles.csproj.GenerateResource.Cache
+E:\.Net Test\CreateMltVolumeFiles\CreateMltVolumeFiles\bin\Debug\CreateMltVolumeFiles.exe
+E:\.Net Test\CreateMltVolumeFiles\CreateMltVolumeFiles\bin\Debug\CreateMltVolumeFiles.pdb
+E:\.Net Test\CreateMltVolumeFiles\CreateMltVolumeFiles\obj\x86\Debug\CreateMltVolumeFiles.csprojResolveAssemblyReference.cache
+E:\.Net Test\CreateMltVolumeFiles\CreateMltVolumeFiles\obj\x86\Debug\CreateMltVolumeFiles.CreateMltVolumeFilesForm.resources
+E:\.Net Test\CreateMltVolumeFiles\CreateMltVolumeFiles\obj\x86\Debug\CreateMltVolumeFiles.Properties.Resources.resources
+E:\.Net Test\CreateMltVolumeFiles\CreateMltVolumeFiles\obj\x86\Debug\CreateMltVolumeFiles.csproj.GenerateResource.Cache
+E:\.Net Test\CreateMltVolumeFiles\CreateMltVolumeFiles\obj\x86\Debug\CreateMltVolumeFiles.csproj.CoreCompileInputs.cache
+E:\.Net Test\CreateMltVolumeFiles\CreateMltVolumeFiles\obj\x86\Debug\CreateMltVolumeFiles.exe
+E:\.Net Test\CreateMltVolumeFiles\CreateMltVolumeFiles\obj\x86\Debug\CreateMltVolumeFiles.pdb
